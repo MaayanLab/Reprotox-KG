@@ -9,7 +9,7 @@
 
 ### Ingesting data to a neo4j instance
 
-A script for ingesting the above serializations are provided [here](/CFDE-KX/scripts/populate_from_s3.py).
+A script for ingesting the above serializations are provided [here](https://raw.githubusercontent.com/MaayanLab/reprotox-kg/main/scripts/populate.py).
 
 #### Running the populate script:
 1. Download the script from [here](https://raw.githubusercontent.com/MaayanLab/reprotox-kg/main/scripts/populate.py).
