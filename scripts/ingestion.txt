@@ -1,1 +1,1 @@
-https://s3.amazonaws.com/maayan-kg/reprotox/hpo.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/reprotox_serialization.valid.json
