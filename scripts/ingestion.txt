@@ -1,1 +1,7 @@
 https://s3.amazonaws.com/maayan-kg/reprotox/reprotox_serialization.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/hpo.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/idg_drug_targets.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_male.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_female.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/sigcom_lincs_serialization.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/sigcom_lincs_drug_similarity.valid.json
