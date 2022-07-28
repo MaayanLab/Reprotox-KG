@@ -445,8 +445,8 @@
 	"header": {
 		"title": "Toxicology Screening Knowledge Graph for Structural Birth Defects",
 		"icon": {
-			"favicon": "${PREFIX}/favicon.ico",
-			"src": "${PREFIX}/static/icons/CFDE-logo.png",
+			"favicon": "https://github.com/MaayanLab/Reprotox-KG/raw/main/Reprotox.png",
+			"src": "https://github.com/MaayanLab/Reprotox-KG/raw/main/Reprotox.png",
 			"alt": "CFDE logo",
 			"width": 100,
 			"height": 100
@@ -494,5 +494,22 @@
 				"href": "https://sparc.science/"
 			}
 		]
-	}
+	},
+	"footer": [
+		{
+			"type": "github",
+			"key": "github",
+			"code": "https://github.com/maayanLab/gene-knowledge-graph",
+			"issues": "https://github.com/MaayanLab/Reprotox-KG/issues"
+		},
+		{
+			"type": "icon",
+			"key": "cfde_icon",
+			"src": "${PREFIX}/static/icons/CFDE-logo.png",
+			"alt": "CFDE",
+			"href": "https://www.nih-cfde.org/",
+			"height": 100,
+			"width": 100
+		}
+	]
 }
