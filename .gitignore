@@ -1,2 +1,8 @@
 .DS_Store
 .env
+.ipynb_checkpoints
+data
+results
+ingestion
+Mammalia
+venv
