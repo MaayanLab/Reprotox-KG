@@ -6,6 +6,7 @@
 | drug_and_drug_similarity_from_lincs_serialization    | 8.2MB      | 07/27/2022 | 4523 | 20785 | [link](https://s3.amazonaws.com/maayan-kg/reprotox/sigcom_lincs_drug_similarity.valid.json) | Top up- and down- regulated genes from [LINCS](https://maayanlab.cloud/sigcom-lincs/) L1000 chemical perturbation signatures |
 | drug_and_birth-defects_associations_from_FAERS_male_serialization            | 103KB       | 07/12/2022 | 117  | 179   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_male.valid.json) | Drug/Birth Defect associations extracted from the FAERS database by IDG |
 | drug_and_birth-defects_associations_from_FAERS_female_serialization          | 111KB       | 07/12/2022 | 126  | 193   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_female.valid.json) | Drug/Birth Defect associations extracted from the FAERS database by IDG |
+| HPO_associated_genes          | 38MB       | 07/28/2022 | 5195  | 126862   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/hpo.valid.json) | Birth defect associated genes taken from HPO |
 
 ### Ingesting data to a neo4j instance
 
