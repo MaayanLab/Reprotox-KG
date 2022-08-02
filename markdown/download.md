@@ -33,6 +33,6 @@ A script for ingesting the above serializations are provided [here](https://raw.
 | Gene Susceptibility Scores    | 1.1 MB      | 07-27-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/susceptibility_scores.csv) |
 | Placenta Crossing Scores      | 866 KB      | 07-27-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/L1000_2021_Signature_Similarity_predicted_drug_table.csv) |
 | HPO Frequency                 | 1.1 MB      | 07-27-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/HPO_Freq.tsv) |
-| CNS Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/CNS Phenotypes.csv) |
-| Great Vessels Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Great Vessels Phenotypes.csv) |
-| Heart Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Heart Phenotypes.csv) |
+| CNS Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/CNS%20Phenotypes.csv) |
+| Great Vessels Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Great%20Vessels%20Phenotypes.csv) |
+| Heart Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Heart%20Phenotypes.csv) |
