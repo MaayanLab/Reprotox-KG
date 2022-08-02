@@ -7,6 +7,7 @@
 | drug_and_birth-defects_associations_from_FAERS_male_serialization            | 104KB       | 08/02/2022 | 117  | 179   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_male.valid.json) | Drug/Birth Defect associations extracted from the FAERS database by IDG |
 | drug_and_birth-defects_associations_from_FAERS_female_serialization          | 104KB       | 08/02/2022 | 126  | 193   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_female.valid.json) | Drug/Birth Defect associations extracted from the FAERS database by IDG |
 | HPO_associated_genes          | 37.5MB       | 08/02/2022 | 5152  | 125458   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/hpo.valid.json) | Birth defect associated genes taken from HPO |
+| ARCHS4_coexpression_associations          | 76.9MB       | 08/02/2022 | 17964  | 170801   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/archs4_coexpression.valid.json) | Birth defect associated genes taken from HPO |
 
 ### Ingesting data to a neo4j instance
 
