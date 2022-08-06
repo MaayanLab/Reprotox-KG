@@ -9,6 +9,7 @@
 				"main": "#f48fb1",
 				"contrastText": "#000"
 			},
+			"relation": [],
 			"display": [
 				{
 					"label": "ID",
@@ -44,6 +45,7 @@
 				"main": "#aed581",
 				"contrastText": "#000"
 			},
+			"relation": [],
 			"display": [
 				{
 					"label": "Gene ID",
@@ -98,6 +100,7 @@
 			"order": ["placenta_score", "DESC"],
 			"example": ["terconazole", "ketotifen"],
 			"pathname": "/",
+			"relation": [],
 			"palette": {
 				"name": "oranges",
 				"main": "#ffb74d",
