@@ -469,7 +469,7 @@
 				"label": "LINCS",
 				"icon": "${PREFIX}/static/resources/lincs.gif",
 				"height": 150,
-				"width": 150,
+				"width": 100,
 				"href": "https://maayanlab.cloud/sigcom-lincs/"
 			},
 			{
