@@ -466,6 +466,13 @@
 		],
 		"subheader": [
 			{
+				"label": "LINCS",
+				"icon": "${PREFIX}/static/resources/lincs.gif",
+				"height": 150,
+				"width": 150,
+				"href": "https://maayanlab.cloud/sigcom-lincs/"
+			},
+			{
 				"label": "IDG",
 				"icon": "${PREFIX}/static/resources/idg.png",
 				"height": 100,
@@ -478,13 +485,6 @@
 				"height": 100,
 				"width": 100,
 				"href": "https://kidsfirstdrc.org/"
-			},
-			{
-				"label": "LINCS",
-				"icon": "${PREFIX}/static/resources/lincs.gif",
-				"height": 120,
-				"width": 120,
-				"href": "https://maayanlab.cloud/sigcom-lincs/"
 			},
 			{
 				"label": "SPARC",
@@ -508,8 +508,8 @@
 			"src": "${PREFIX}/static/icons/CFDE-logo.png",
 			"alt": "CFDE",
 			"href": "https://www.nih-cfde.org/",
-			"height": 100,
-			"width": 100
+			"height": 70,
+			"width": 130
 		}
 	]
 }
