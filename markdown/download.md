@@ -6,8 +6,11 @@
 | drug_and_drug_similarity_from_lincs_serialization    | 8.2MB      | 08/02/2022 | 4523 | 20785 | [link](https://s3.amazonaws.com/maayan-kg/reprotox/sigcom_lincs_drug_similarity.valid.json) | Top up- and down- regulated genes from [LINCS](https://lincsproject.org/) L1000 chemical perturbation signatures |
 | drug_and_birth-defects_associations_from_FAERS_male_serialization            | 104KB       | 08/02/2022 | 117  | 179   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_male.valid.json) | Drug/Birth Defect associations extracted from the FAERS database by IDG |
 | drug_and_birth-defects_associations_from_FAERS_female_serialization          | 104KB       | 08/02/2022 | 126  | 193   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/drugsto_faers_female.valid.json) | Drug/Birth Defect associations extracted from the FAERS database by IDG |
-| HPO_associated_genes          | 37.5MB       | 08/02/2022 | 5152  | 125458   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/hpo.valid.json) | Birth defect associated genes taken from HPO |
-| ARCHS4_coexpression_associations          | 76.9MB       | 08/02/2022 | 17964  | 170801   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/archs4_coexpression.valid.json) | Birth defect associated genes taken from HPO |
+| HPO_associated_genes          | 37.5MB       | 08/02/2022 | 5152  | 125458   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/hpo.valid.json) | Birth defect associated genes taken from [HPO](https://hpo.jax.org/) |
+| ARCHS4_coexpression_associations          | 76.9MB       | 08/02/2022 | 17964  | 170801   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/archs4_coexpression.valid.json) | Co-expression association from [ARCHS4](https://maayanlab.cloud/archs4) |
+| drug_and_HPO-associations_serialization        | 5.1MB       | 09/07/2022   | 2802            | 12502            | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Drugshot_HPO_to_Drug.valid.json) | Associations from [DrugShot](https://maayanlab.cloud/drugshot/) using [HPO](https://hpo.jax.org/) terms |
+| gene_and_HPO-associations_serialization        | 5.8MB       | 09/07/2022   | 6064            | 13487            | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Geneshot_HPO_to_Gene.valid.json) | Associations from [GeneShot](https://maayanlab.cloud/geneshot/) using [HPO](https://hpo.jax.org/) terms |
+
 
 ### Ingesting data to a neo4j instance
 
