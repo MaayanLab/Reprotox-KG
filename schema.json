@@ -443,6 +443,37 @@
 					"type": "text"
                 }	
 			]
+		},
+		{
+			"match": ["HPO"],
+			"display": [
+				{
+					"label": "ID",
+					"text": "${id}",
+					"type": "text"
+				},
+				{
+					"label": "Name",
+					"text": "${label}",
+					"type": "text"
+				},
+				{
+					"label": "Source Label",
+					"text": "${source_label}",
+					"type": "text"
+				},
+				{
+					"label": "Target Label",
+					"text": "${target_label}",
+					"type": "text"
+				},
+				{
+					"label": "Resource",
+					"text": "HPO",
+					"href": "https://hpo.jax.org/app/",
+					"type": "link"
+				}	
+			]
 		}
 	],
 	"header": {
