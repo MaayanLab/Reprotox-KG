@@ -474,6 +474,78 @@
 					"type": "link"
 				}	
 			]
+		},
+		{
+			"match": ["ARCHS4 (negatively correlated)"],
+			"selected": true,
+			"palette": {
+				"main": "#f8bbd0"
+			},
+			"order": ["correlation_coefficient", "ASC"],
+			"display": [
+				{
+					"label": "ID",
+					"text": "${id}",
+					"type": "text"
+				},
+				{
+					"label": "Source Label",
+					"text": "${source_label}",
+					"type": "text"
+				},
+				{
+					"label": "Target Label",
+					"text": "${target_label}",
+					"type": "text"
+				},
+				{
+					"label": "Correlation Coefficient",
+					"text": "${correlation_coefficient}",
+					"type": "number"
+				},
+				{
+					"label": "Resource",
+					"text": "ARCHS4",
+					"href": "https://maayanlab.cloud/archs4/",
+					"type": "link"
+				}	
+			]
+		},
+		{
+			"match": ["ARCHS4 (positively correlated)"],
+			"selected": true,
+			"palette": {
+				"main": "#4fc3f7"
+			},
+			"order": ["correlation_coefficient", "DESC"],
+			"display": [
+				{
+					"label": "ID",
+					"text": "${id}",
+					"type": "text"
+				},
+				{
+					"label": "Source Label",
+					"text": "${source_label}",
+					"type": "text"
+				},
+				{
+					"label": "Target Label",
+					"text": "${target_label}",
+					"type": "text"
+				},
+				{
+					"label": "Correlation Coefficient",
+					"text": "${correlation_coefficient}",
+					"type": "number"
+				},
+				{
+					"label": "Resource",
+					"text": "ARCHS4",
+					"href": "https://maayanlab.cloud/archs4/",
+					"type": "link"
+				}		
+			]
 		}
 	],
 	"header": {
