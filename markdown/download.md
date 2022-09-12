@@ -10,6 +10,7 @@
 | ARCHS4_coexpression_associations          | 93.8MB       | 09/12/2022 | 17964  | 170801   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/archs4_coexpression.valid.json) | Co-expression association from [ARCHS4](https://maayanlab.cloud/archs4) |
 | drug_and_HPO-associations_serialization        | 6.4MB       | 09/12/2022   | 2802            | 12502            | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Drugshot_HPO_to_Drug.valid.json) | Associations from [DrugShot](https://maayanlab.cloud/drugshot/) using [HPO](https://hpo.jax.org/) terms |
 | gene_and_HPO-associations_serialization        | 7.2MB       | 09/12/2022   | 6064            | 13487            | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Geneshot_HPO_to_Gene.valid.json) | Associations from [GeneShot](https://maayanlab.cloud/geneshot/) using [HPO](https://hpo.jax.org/) terms |
+| idg_drug_targets-associations_serialization        | 5.6MB       | 09/12/2022   | 2395            | 7326            | [link](https://s3.amazonaws.com/maayan-kg/reprotox/idg_drug_targets.valid.json) | Drug targets from IDG|
 
 
 ### Ingesting data to a neo4j instance
