@@ -567,7 +567,7 @@
 				"endpoint": "/downloads",
 				"label": "Download Assets",
 				"type": "markdown",
-				"src": "https://raw.githubusercontent.com/MaayanLab/reprotox-kg/main/markdown/download.md"
+				"src": "https://raw.githubusercontent.com/MaayanLab/Reprotox-KG/main/markdown/download.md"
 			}
 		],
 		"subheader": [
