@@ -1,2 +1,2 @@
 https://s3.amazonaws.com/maayan-kg/reprotox/Drugshot_HPO_to_Drug.valid.json
-https://s3.amazonaws.com/maayan-kg/reprotox/idg_drug_targets.valid.json
+https://s3.amazonaws.com/maayan-kg/reprotox/Geneshot_HPO_to_Gene.valid.json
