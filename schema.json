@@ -477,7 +477,6 @@
 		},
 		{
 			"match": ["ARCHS4 (negatively correlated)"],
-			"selected": true,
 			"palette": {
 				"main": "#f8bbd0"
 			},
@@ -513,7 +512,6 @@
 		},
 		{
 			"match": ["ARCHS4 (positively correlated)"],
-			"selected": true,
 			"palette": {
 				"main": "#4fc3f7"
 			},
