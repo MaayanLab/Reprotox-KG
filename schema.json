@@ -121,17 +121,20 @@
 				{
 					"label": "FDA Category D - L1000 Similarity",
 					"type": "number",
-					"text": "${FDA_Category_D_L1000_Similarity}"
+					"text": "${FDA_Category_D_L1000_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D - Structural Similarity",
 					"type": "number",
-					"text": "${FDA_Category_D_Structural_Similarity}"
+					"text": "${FDA_Category_D_Structural_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D - Weighted Contribution",
 					"type": "number",
-					"text": "${FDA_Category_D_Weighted_Contribution}"
+					"text": "${FDA_Category_D_Weighted_Contribution}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D - Top Rank",
@@ -141,17 +144,20 @@
 				{
 					"label": "FDA Category X - L1000 Similarity",
 					"type": "number",
-					"text": "${FDA_Category_X_L1000_Similarity}"
+					"text": "${FDA_Category_X_L1000_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category X - Structural Similarity",
 					"type": "number",
-					"text": "${FDA_Category_X_Structural_Similarity}"
+					"text": "${FDA_Category_X_Structural_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category X - Weighted Contribution",
 					"type": "number",
-					"text": "${FDA_Category_X_Weighted_Contribution}"
+					"text": "${FDA_Category_X_Weighted_Contribution}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category X - Top Rank",
@@ -161,17 +167,20 @@
 				{
 					"label": "FDA Category D and X - L1000 Similarity",
 					"type": "number",
-					"text": "${FDA_Category_D_and_X_L1000_Similarity}"
+					"text": "${FDA_Category_D_and_X_L1000_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D and X - Structural Similarity",
 					"type": "number",
-					"text": "${FDA_Category_D_and_X_Structural_Similarity}"
+					"text": "${FDA_Category_D_and_X_Structural_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D and X - Weighted Contribution",
 					"type": "number",
-					"text": "${FDA_Category_D_and_X_Weighted_Contribution}"
+					"text": "${FDA_Category_D_and_X_Weighted_Contribution}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D and X - Top Rank",
@@ -181,17 +190,20 @@
 				{
 					"label": "Placenta Crossing - L1000 Similarity",
 					"type": "number",
-					"text": "${Placenta_Crossing_L1000_Similarity}"
+					"text": "${Placenta_Crossing_L1000_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "Placenta Crossing - Structural Similarity",
 					"type": "number",
-					"text": "${Placenta_Crossing_Structural_Similarity}"
+					"text": "${Placenta_Crossing_Structural_Similarity}",
+					"hide": true
 				},
 				{
 					"label": "Placenta Crossing - Weighted Contribution",
 					"type": "number",
-					"text": "${Placenta_Crossing_Weighted_Contribution}"
+					"text": "${Placenta_Crossing_Weighted_Contribution}",
+					"hide": true
 				},
 				{
 					"label": "Placenta Crossing - Top Rank",
