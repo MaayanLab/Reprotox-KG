@@ -119,120 +119,116 @@
 					"text": "${smiles}"
 				},
 				{
-					"label": "FDA Category D - L1000 Similarity",
+					"label": "FDA Category D - L1000 Similarity z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D - Structural Similarity",
+					"label": "FDA Category D - Structural Similarity z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_Structural_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D - Weighted Contribution",
+					"label": "FDA Category D - Weighted Contribution (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_Weighted_Contribution}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D - Top Rank",
+					"label": "FDA Category D - Top Rank (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_Top_Rank}"
 				},
 				{
-					"label": "FDA Category X - L1000 Similarity",
+					"label": "FDA Category X - L1000 Similarity z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_X_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category X - Structural Similarity",
+					"label": "FDA Category X - Structural Similarity z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_X_Structural_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category X - Weighted Contribution",
+					"label": "FDA Category X - Weighted Contribution (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_X_Weighted_Contribution}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category X - Top Rank",
+					"label": "FDA Category X - Top Rank (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_X_Top_Rank}"
 				},
 				{
-					"label": "FDA Category D and X - L1000 Similarity",
+					"label": "FDA Category D and X - L1000 Similarity z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_and_X_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D and X - Structural Similarity",
+					"label": "FDA Category D and X - Structural Similarity z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_and_X_Structural_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D and X - Weighted Contribution",
+					"label": "FDA Category D and X - Weighted Contribution (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_and_X_Weighted_Contribution}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D and X - Top Rank",
+					"label": "FDA Category D and X - Top Rank (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_and_X_Top_Rank}"
 				},
 				{
-					"label": "Placenta Crossing - L1000 Similarity",
+					"label": "Placenta Crossing - L1000 Similarity z-scored)",
 					"type": "number",
 					"text": "${Placenta_Crossing_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "Placenta Crossing - Structural Similarity",
+					"label": "Placenta Crossing - Structural Similarity z-scored)",
 					"type": "number",
 					"text": "${Placenta_Crossing_Structural_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "Placenta Crossing - Weighted Contribution",
+					"label": "Placenta Crossing - Weighted Contribution (z-scored)",
 					"type": "number",
 					"text": "${Placenta_Crossing_Weighted_Contribution}",
 					"hide": true
 				},
 				{
-					"label": "Placenta Crossing - Top Rank",
+					"label": "Placenta Crossing - Top Rank (z-scored)",
 					"type": "number",
 					"text": "${Placenta_Crossing_Top_Rank}"
 				},
 				{
 					"label": "FDA Category D",
-					"type": "int",
-					"text": "${FDA_Category_D}",
-					"field": "FDA_Category_D"
+					"type": "text",
+					"text": "${FDA_Category_D === 1 ? 'undefined': 'true'}"
 				},
 				{
 					"label": "FDA Category X",
-					"type": "int",
-					"text": "${FDA_Category_X}",
-					"field": "FDA_Category_X"
+					"type": "text",
+					"text": "${FDA_Category_X === 1 ? 'undefined': 'true'}"
 				},
 				{
 					"label": "FDA Category D and X",
-					"type": "int",
-					"text": "${FDA_Category_D_and_X}",
-					"field": "FDA_Category_D_and_X"
+					"type": "text",
+					"text": "${FDA_Category_D_and_X === 1 ? 'undefined': 'true'}"
 				},
 				{
 					"label": "Placenta Crossing",
-					"type": "int",
-					"text": "${Placenta_Crossing}",
-					"field": "Placenta_Crossing"
+					"type": "text",
+					"text": "${Placenta_Crossing === 1 ? 'undefined': 'true'}"
 				}
 			],
 			"search": [
