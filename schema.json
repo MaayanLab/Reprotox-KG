@@ -119,13 +119,13 @@
 					"text": "${smiles}"
 				},
 				{
-					"label": "FDA Category D - L1000 Similarity z-scored)",
+					"label": "FDA Category D - L1000 Similarity (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D - Structural Similarity z-scored)",
+					"label": "FDA Category D - Structural Similarity (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_Structural_Similarity}",
 					"hide": true
@@ -142,13 +142,13 @@
 					"text": "${FDA_Category_D_Top_Rank}"
 				},
 				{
-					"label": "FDA Category X - L1000 Similarity z-scored)",
+					"label": "FDA Category X - L1000 Similarity (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_X_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category X - Structural Similarity z-scored)",
+					"label": "FDA Category X - Structural Similarity (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_X_Structural_Similarity}",
 					"hide": true
@@ -165,13 +165,13 @@
 					"text": "${FDA_Category_X_Top_Rank}"
 				},
 				{
-					"label": "FDA Category D and X - L1000 Similarity z-scored)",
+					"label": "FDA Category D and X - L1000 Similarity (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_and_X_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "FDA Category D and X - Structural Similarity z-scored)",
+					"label": "FDA Category D and X - Structural Similarity (z-scored)",
 					"type": "number",
 					"text": "${FDA_Category_D_and_X_Structural_Similarity}",
 					"hide": true
@@ -188,13 +188,13 @@
 					"text": "${FDA_Category_D_and_X_Top_Rank}"
 				},
 				{
-					"label": "Placenta Crossing - L1000 Similarity z-scored)",
+					"label": "Placenta Crossing - L1000 Similarity (z-scored)",
 					"type": "number",
 					"text": "${Placenta_Crossing_L1000_Similarity}",
 					"hide": true
 				},
 				{
-					"label": "Placenta Crossing - Structural Similarity z-scored)",
+					"label": "Placenta Crossing - Structural Similarity (z-scored)",
 					"type": "number",
 					"text": "${Placenta_Crossing_Structural_Similarity}",
 					"hide": true
