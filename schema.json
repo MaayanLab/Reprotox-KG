@@ -114,19 +114,109 @@
 					"href": "https://pubchem.ncbi.nlm.nih.gov/compound/${id.replace('CID:', '')}"
 				},
 				{
-					"label": "Placenta Crossing Likelihood Score",
-					"type": "number",
-					"text": "${placenta_score}"
-				},
-				{
-					"label": "Placenta Crossing Likelihood Rank",
-					"type": "int",
-					"text": "${placenta_rank}"
-				},
-				{
 					"label": "smiles",
 					"type": "text",
 					"text": "${smiles}"
+				},
+				{
+					"label": "FDA Category D - L1000 Similarity",
+					"type": "number",
+					"text": "${FDA_Category_D_L1000_Similarity}"
+				},
+				{
+					"label": "FDA Category D - Structural Similarity",
+					"type": "number",
+					"text": "${FDA_Category_D_Structural_Similarity}"
+				},
+				{
+					"label": "FDA Category D - Weighted Contribution",
+					"type": "number",
+					"text": "${FDA_Category_D_Weighted_Contribution}"
+				},
+				{
+					"label": "FDA Category D - Top Rank",
+					"type": "number",
+					"text": "${FDA_Category_D_Top_Rank}"
+				},
+				{
+					"label": "FDA Category X - L1000 Similarity",
+					"type": "number",
+					"text": "${FDA_Category_X_L1000_Similarity}"
+				},
+				{
+					"label": "FDA Category X - Structural Similarity",
+					"type": "number",
+					"text": "${FDA_Category_X_Structural_Similarity}"
+				},
+				{
+					"label": "FDA Category X - Weighted Contribution",
+					"type": "number",
+					"text": "${FDA_Category_X_Weighted_Contribution}"
+				},
+				{
+					"label": "FDA Category X - Top Rank",
+					"type": "number",
+					"text": "${FDA_Category_X_Top_Rank}"
+				},
+				{
+					"label": "FDA Category D and X - L1000 Similarity",
+					"type": "number",
+					"text": "${FDA_Category_D_and_X_L1000_Similarity}"
+				},
+				{
+					"label": "FDA Category D and X - Structural Similarity",
+					"type": "number",
+					"text": "${FDA_Category_D_and_X_Structural_Similarity}"
+				},
+				{
+					"label": "FDA Category D and X - Weighted Contribution",
+					"type": "number",
+					"text": "${FDA_Category_D_and_X_Weighted_Contribution}"
+				},
+				{
+					"label": "FDA Category D and X - Top Rank",
+					"type": "number",
+					"text": "${FDA_Category_D_and_X_Top_Rank}"
+				},
+				{
+					"label": "Placenta Crossing - L1000 Similarity",
+					"type": "number",
+					"text": "${Placenta_Crossing_L1000_Similarity}"
+				},
+				{
+					"label": "Placenta Crossing - Structural Similarity",
+					"type": "number",
+					"text": "${Placenta_Crossing_Structural_Similarity}"
+				},
+				{
+					"label": "Placenta Crossing - Weighted Contribution",
+					"type": "number",
+					"text": "${Placenta_Crossing_Weighted_Contribution}"
+				},
+				{
+					"label": "Placenta Crossing - Top Rank",
+					"type": "number",
+					"text": "${Placenta_Crossing_Top_Rank}"
+				},
+				{
+					"label": "FDA Category D",
+					"type": "text",
+					"text": "${FDA_Category_D === 0 ? 'undefined': 'true'}"
+				},
+				{
+					"label": "FDA Category X",
+					"type": "text",
+					"text": "${FDA_Category_X === 0 ? 'undefined': 'true'}"
+				},
+				{
+					"label": "FDA Category D and X",
+					"type": "text",
+					"text": "${FDA_Category_D_and_X === 0 ? 'undefined': 'true'}"
+				},
+				{
+					"label": "Placenta Crossing",
+					"type": "text",
+					"text": "${Placenta_Crossing === 0 ? 'undefined': 'true'}"
 				}
 			],
 			"search": [
