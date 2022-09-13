@@ -213,22 +213,22 @@
 				{
 					"label": "FDA Category D",
 					"type": "int",
-					"text": "${FDA_Category_D === 1 ? 'undefined': 'true'}"
+					"text": "${FDA_Category_D}"
 				},
 				{
 					"label": "FDA Category X",
 					"type": "int",
-					"text": "${FDA_Category_X === 1 ? 'undefined': 'true'}"
+					"text": "${FDA_Category_X}"
 				},
 				{
 					"label": "FDA Category D and X",
 					"type": "int",
-					"text": "${FDA_Category_D_and_X === 1 ? 'undefined': 'true'}"
+					"text": "${FDA_Category_D_and_X}"
 				},
 				{
 					"label": "Placenta Crossing",
 					"type": "int",
-					"text": "${Placenta_Crossing === 1 ? 'undefined': 'true'}"
+					"text": "${Placenta_Crossing}"
 				}
 			],
 			"search": [
