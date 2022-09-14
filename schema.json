@@ -121,8 +121,7 @@
 				{
 					"label": "FDA Category D - L1000 Similarity (z-scored)",
 					"type": "number",
-					"text": "${FDA_Category_D_L1000_Similarity}",
-					"hide": true
+					"text": "${FDA_Category_D_L1000_Similarity}"
 				},
 				{
 					"label": "FDA Category D - Structural Similarity (z-scored)",
@@ -139,13 +138,13 @@
 				{
 					"label": "FDA Category D - Top Rank (z-scored)",
 					"type": "number",
-					"text": "${FDA_Category_D_Top_Rank}"
+					"text": "${FDA_Category_D_Top_Rank}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category X - L1000 Similarity (z-scored)",
 					"type": "number",
-					"text": "${FDA_Category_X_L1000_Similarity}",
-					"hide": true
+					"text": "${FDA_Category_X_L1000_Similarity}"
 				},
 				{
 					"label": "FDA Category X - Structural Similarity (z-scored)",
@@ -162,13 +161,13 @@
 				{
 					"label": "FDA Category X - Top Rank (z-scored)",
 					"type": "number",
-					"text": "${FDA_Category_X_Top_Rank}"
+					"text": "${FDA_Category_X_Top_Rank}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D and X - L1000 Similarity (z-scored)",
 					"type": "number",
-					"text": "${FDA_Category_D_and_X_L1000_Similarity}",
-					"hide": true
+					"text": "${FDA_Category_D_and_X_L1000_Similarity}"
 				},
 				{
 					"label": "FDA Category D and X - Structural Similarity (z-scored)",
@@ -185,13 +184,13 @@
 				{
 					"label": "FDA Category D and X - Top Rank (z-scored)",
 					"type": "number",
-					"text": "${FDA_Category_D_and_X_Top_Rank}"
+					"text": "${FDA_Category_D_and_X_Top_Rank}",
+					"hide": true
 				},
 				{
 					"label": "Placenta Crossing - L1000 Similarity (z-scored)",
 					"type": "number",
-					"text": "${Placenta_Crossing_L1000_Similarity}",
-					"hide": true
+					"text": "${Placenta_Crossing_L1000_Similarity}"
 				},
 				{
 					"label": "Placenta Crossing - Structural Similarity (z-scored)",
@@ -208,7 +207,8 @@
 				{
 					"label": "Placenta Crossing - Top Rank (z-scored)",
 					"type": "number",
-					"text": "${Placenta_Crossing_Top_Rank}"
+					"text": "${Placenta_Crossing_Top_Rank}",
+					"hide": true
 				},
 				{
 					"label": "FDA Category D",
