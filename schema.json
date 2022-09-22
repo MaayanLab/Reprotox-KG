@@ -97,7 +97,7 @@
 		},
 		{
 			"node": "Drug",
-			"order": ["placenta_score", "DESC"],
+			"order": ["Placenta_Crossing_Weighted_Contribution", "DESC"],
 			"example": ["terconazole", "ketotifen"],
 			"pathname": "/",
 			"relation": [],
