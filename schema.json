@@ -671,6 +671,7 @@
 				"endpoint": "/downloads",
 				"label": "Download Assets",
 				"type": "markdown",
+				"component": "Markdown",
 				"src": "https://raw.githubusercontent.com/MaayanLab/Reprotox-KG/main/markdown/download.md"
 			}
 		],
