@@ -724,6 +724,7 @@
 	],
 	"ui": {
 		"background": "#FFF",
-		"footer": "lightgray"
+		"footer_background": "lightgray",
+		"footer_buttons": "light"
 	}
 }
