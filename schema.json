@@ -662,7 +662,10 @@
 				"endpoint": "/",
 				"label": "Knowledge Graph",
 				"type": "page",
-				"component": "KnowledgeGraph"
+				"component": "KnowledgeGraph",
+				"props": {
+					"init_function": "initialize_kg"
+				}
 			},
 			{
 				"endpoint": "/downloads",
