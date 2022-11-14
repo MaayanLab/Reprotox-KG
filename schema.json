@@ -661,7 +661,8 @@
 			{
 				"endpoint": "/",
 				"label": "Knowledge Graph",
-				"type": "page"
+				"type": "page",
+				"component": "KnowledgeGraph"
 			},
 			{
 				"endpoint": "/downloads",
