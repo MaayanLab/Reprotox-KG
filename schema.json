@@ -721,5 +721,9 @@
 			"height": 70,
 			"width": 130
 		}
-	]
+	],
+	"ui": {
+		"background": "#FFF",
+		"footer": "lightgray"
+	}
 }
