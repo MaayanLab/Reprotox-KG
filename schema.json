@@ -98,7 +98,7 @@
 		{
 			"node": "Drug",
 			"order": ["Placenta_Crossing_Weighted_Contribution", "DESC"],
-			"example": ["Terconazole", "Ketotifen"],
+			"example": ["terconazole", "ketotifen"],
 			"pathname": "/",
 			"relation": [],
 			"palette": {
