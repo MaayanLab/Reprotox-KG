@@ -114,9 +114,9 @@
 					"href": "https://pubchem.ncbi.nlm.nih.gov/compound/${id.replace('CID:', '')}"
 				},
 				{
-					"label": "smiles",
+					"label": "SMILES",
 					"type": "text",
-					"text": "${smiles}"
+					"text": "${SMILES}"
 				},
 				{
 					"label": "FDA Category D - L1000 Similarity (z-scored)",
