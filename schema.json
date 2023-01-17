@@ -649,10 +649,11 @@
 		}
 	],
 	"header": {
-		"title": "<h5 style='color:white;font-size:1.5rem;margin-left:5px'><b>Toxicology Screening Knowledge Graph for Structural Birth Defects</b></h5>",
+		"title": "<h5 style='color:black;font-size:1.5rem;margin-left:5px'><b>Toxicology Screening Knowledge Graph for Structural Birth Defects</b></h5>",
 		"icon": {
 			"favicon": "https://github.com/MaayanLab/Reprotox-KG/raw/main/Reprotox.png",
 			"src": "https://github.com/MaayanLab/Reprotox-KG/raw/main/Reprotox.png",
+			"faviconTitle": "Reprotox-KG",
 			"alt": "CFDE logo",
 			"width": 70,
 			"height": 70
