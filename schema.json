@@ -719,7 +719,7 @@
 		{
 			"type": "icon",
 			"key": "cfde_icon",
-			"src": "${PREFIX}/static/icons/CFDE-logo.png",
+			"src": "${PREFIX}/static/icons/cfde-logo.png",
 			"alt": "CFDE",
 			"href": "https://www.nih-cfde.org/",
 			"height": 70,
