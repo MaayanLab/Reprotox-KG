@@ -649,7 +649,7 @@
 		}
 	],
 	"header": {
-		"title": "Toxicology Screening Knowledge Graph for Structural Birth Defects",
+		"title": "<h5><b>Toxicology Screening Knowledge Graph for Structural Birth Defects</b></h5>",
 		"icon": {
 			"favicon": "https://github.com/MaayanLab/Reprotox-KG/raw/main/Reprotox.png",
 			"src": "https://github.com/MaayanLab/Reprotox-KG/raw/main/Reprotox.png",
