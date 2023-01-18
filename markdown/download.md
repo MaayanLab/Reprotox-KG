@@ -37,7 +37,7 @@ A script for ingesting the above serializations are provided [here](https://raw.
 | :---------------------------- | :---------- | :----------- | :---------------------------------------------------------------------------  |
 | Gene Susceptibility Scores    | 1.1 MB      | 07-27-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/susceptibility_scores.csv) |
 | Placental Crossing and D & X Category Predictions      | 3.8 MB      | 09-12-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/L1000_2021_Signature_Similarity_predicted_drug_table.tsv) |
-| HPO Frequency                 | 1.1 MB      | 07-27-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/HPO_Freq.tsv) |
+| Frequency of birth defects based on clinical observations from Kids First                 | 1.1 MB      | 07-27-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/HPO_Freq.tsv) |
 | CNS Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/CNS%20Phenotypes.csv) |
 | Great Vessels Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Great%20Vessels%20Phenotypes.csv) |
 | Heart Phenotypes                | 8 KB      | 08-02-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Heart%20Phenotypes.csv) |
