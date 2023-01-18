@@ -7,3 +7,9 @@ ingestion
 Mammalia
 venv
 misc
+smiles_*
+for_update
+updated_ingestion
+output
+venn/
+drug_collapse
