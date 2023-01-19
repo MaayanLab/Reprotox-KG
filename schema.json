@@ -665,7 +665,7 @@
 		],
 		"subheader": [
 			{
-				"label": "LINCS Project",
+				"label": "LINCS",
 				"icon": "${PREFIX}/static/resources/lincs.gif",
 				"height": 100,
 				"width": 150,
