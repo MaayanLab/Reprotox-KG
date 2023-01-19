@@ -302,9 +302,7 @@
 		},
 		{
 			"match": ["SigCom LINCS Drug-to-Gene (downregulates)"],
-			"palette": {
-				"main": "#f8bbd0"
-			},
+			"color": "#f8bbd0",
 			"order": ["mean_CD_coefficient", "ASC"],
 			"display": [
 				{
@@ -342,9 +340,7 @@
 		},
 		{
 			"match": ["SigCom LINCS Drug-to-Gene (upregulates)"],
-			"palette": {
-				"main": "#4fc3f7"
-			},
+			"color":  "#4fc3f7",
 			"order": ["mean_CD_coefficient", "DESC"],
 			"display": [
 				{
@@ -419,9 +415,7 @@
 		},
 		{
 			"match": ["FDA Adverse Event Reporting System (Female)"],
-			"palette": {
-				"main": "#e040fb"
-			},
+			"color": "#e040fb",
 			"order": ["llr_ratio", "DESC"],
 			"display": [
 				{
@@ -458,9 +452,7 @@
 		},
 		{
 			"match": ["FDA Adverse Event Reporting System (Male)"],
-			"palette": {
-				"main": "#80cbc4"
-			},
+			"color": "#80cbc4",
 			"order": ["llr_ratio", "DESC"],
 			"display": [
 				{
@@ -579,9 +571,7 @@
 		},
 		{
 			"match": ["ARCHS4 (negatively correlated)"],
-			"palette": {
-				"main": "#f8bbd0"
-			},
+			"color": "#f8bbd0",
 			"order": ["correlation_coefficient", "ASC"],
 			"display": [
 				{
@@ -614,9 +604,7 @@
 		},
 		{
 			"match": ["ARCHS4 (positively correlated)"],
-			"palette": {
-				"main": "#4fc3f7"
-			},
+			"color":  "#4fc3f7",
 			"order": ["correlation_coefficient", "DESC"],
 			"display": [
 				{
