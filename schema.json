@@ -641,7 +641,8 @@
 				"type": "page",
 				"component": "KnowledgeGraph",
 				"props": {
-					"init_function": "initialize_kg"
+					"init_function": "initialize_kg",
+					"initial_endpoint": "start=Drug&start_term=valproic+acid&start_field=label&end=BirthDefect&end_term=Spina+bifida&end_field=label&limit=25&relation=SigCom+LINCS+Drug-to-Gene+(downregulates)%2CSigCom+LINCS+Drug-to-Gene+(upregulates)%2CHPO%2CDrugshot"
 				}
 			},
 			{
