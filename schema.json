@@ -4,11 +4,7 @@
 			"node": "BirthDefect",
 			"pathname": "/",
 			"example": ["Anencephaly", "Trisomy 21"],
-			"palette": {
-				"name": "pinks",
-				"main": "#f48fb1",
-				"contrastText": "#000"
-			},
+			"color": "#f48fb1",
 			"relation": [],
 			"display": [
 				{
@@ -40,11 +36,7 @@
 			"order": ["pLI", "DESC"],
 			"pathname": "/",
 			"example": ["SLPI", "CAND2"],
-			"palette": {
-				"name": "greens",
-				"main": "#aed581",
-				"contrastText": "#000"
-			},
+			"color": "#aed581",
 			"relation": [],
 			"display": [
 				{
@@ -101,11 +93,7 @@
 			"example": ["terconazole", "ketotifen"],
 			"pathname": "/",
 			"relation": [],
-			"palette": {
-				"name": "oranges",
-				"main": "#ffb74d",
-				"contrastText": "#000"
-			},
+			"color": "#ffb74d",
 			"display": [
 				{
 					"label": "Drug ID",
