@@ -650,7 +650,8 @@
 						"end_term": "Spina bifida",
 						"end_field": "label",
 						"relation": "SigCom LINCS Drug-to-Gene (downregulates),SigCom LINCS Drug-to-Gene (upregulates),HPO,Drugshot"
-					}
+					},
+					"tooltip_viz": false
 				}
 			},
 			{
