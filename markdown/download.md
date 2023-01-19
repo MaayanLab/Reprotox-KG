@@ -44,8 +44,7 @@ A script for ingesting the above serializations are provided [here](https://raw.
 | ReproTox KG Cycles              | 20 KB     | 09-12-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/ReproTox_KG_Cycles.tsv) |
 | ReproTox KG Cycles with Expanded HPO Term              | 432 KB     | 09-12-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/ReproTox_KG_Cycles_with_Expanded_HPO_Term.tsv) |
 | ReproTox Phenotype Anatomy              | 37 KB     | 09-13-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/ReproTox_Phenotype_Anatomy.tsv) |
-| ReproTox KG topology measures              | 50 KB     | 09-15-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/ReproTox-KG-Topology-Measures-09152022.
-pdf) |
 | CNS Phenotypes              | 8 KB     | 01-19-2023   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/CNS_Phenotypes.csv) |
 | Great Vessels Phenotypes              | 8 KB     | 01-19-2023   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Great_Vessels_Phenotypes.csv) |
 | Heart Phenotypes              | 10 KB     | 01-19-2023   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/Heart_Phenotypes.csv) |
+| ReproTox KG topology measures              | 50 KB     | 09-15-2022   | [link](https://s3.amazonaws.com/maayan-kg/reprotox/ReproTox-KG-Topology-Measures-09152022.pdf) |
