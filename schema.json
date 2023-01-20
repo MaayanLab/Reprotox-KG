@@ -664,36 +664,7 @@
 				}
 			}
 		],
-		"subheader": [
-			{
-				"label": "LINCS",
-				"icon": "${PREFIX}/static/resources/lincs.gif",
-				"height": 100,
-				"width": 150,
-				"href": "https://maayanlab.cloud/sigcom-lincs/"
-			},
-			{
-				"label": "IDG",
-				"icon": "${PREFIX}/static/resources/idg.png",
-				"height": 100,
-				"width": 100,
-				"href": "https://druggablegenome.net/"
-			},
-			{
-				"label": "Kids First",
-				"icon": "${PREFIX}/static/resources/kidsfirst.png",
-				"height": 100,
-				"width": 100,
-				"href": "https://kidsfirstdrc.org/"
-			},
-			{
-				"label": "SPARC",
-				"icon": "${PREFIX}/static/resources/sparc.png",
-				"height": 100,
-				"width": 100,
-				"href": "https://sparc.science/"
-			}
-		]
+		"subheader": []
 	},
 	"footer": [
 		{
