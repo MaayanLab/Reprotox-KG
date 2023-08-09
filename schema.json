@@ -686,6 +686,7 @@
 			"width": 130
 		}
 	],
+	"footer_text": "<span style='color:black'>Please acknowledge Enrichr-KG in your publications by citing the following reference:<br><a style='color: black' href='https://doi.org/10.1038%2Fs43856-023-00329-2'>Evangelista JE, Clarke DJB, Xie Z, Marino GB, Utti V, Jenkins SL, Ahooyi TM, Bologa CG, Yang JJ, Binder JL, Kumar P, Lambert CG, Grethe JS, Wenger E, Taylor D, Oprea TI, de Bono B, Ma'ayan A. Toxicology knowledge graph for structural birth defects. Commun Med (Lond). 2023 Jul 17;3(1):98. doi: 10.1038/s43856-023-00329-2. PMID: 37460679; PMCID: PMC10352311.</a></span>",
 	"ui": {
 		"background": "#000",
 		"footer_background": "lightgray",
